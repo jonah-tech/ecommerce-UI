@@ -3,7 +3,7 @@ import Header from '../Header';
 import MenuHeader from '../MenuHeader';
 
 /**
-* @author
+* @author jonnah k
 * @function Layout
 **/
 
